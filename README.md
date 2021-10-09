@@ -1,6 +1,6 @@
 # Hacketoberfest Project @DigitalOcean :rocket:
 ### Finances
 
-![](https://assets.bizcapital.com.br/staging-blog/uploads/20190601151618/depositphotos_51652155_m2015_1.jpg-1-1000x614.jpeg)
+![](https://faculdadespaulistanas.edu.br/wp-content/uploads/2020/03/MBA-%E2%80%93-FINAN%C3%87AS-CORPORATIVAS-1.png)
 
 ## This project will help your finances!
